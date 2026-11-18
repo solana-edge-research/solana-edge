@@ -1,4 +1,4 @@
-![Solana Edge Research](solana-edge-readme-banner-1280x320.png)
+
 
 # Solana Edge
 

@@ -1,3 +1,5 @@
+![Solana Edge Research](solana-edge-banner-1280x640.png)
+
 # Solana Edge
 
 Independent research into low-latency Solana market structure, orderflow visibility, transaction sequencing and execution quality.
